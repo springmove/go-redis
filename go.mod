@@ -1,4 +1,4 @@
-module github.com/springmove/go-redis.git
+module github.com/springmove/go-redis
 
 go 1.22.2
 
